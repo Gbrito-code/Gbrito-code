@@ -3,7 +3,7 @@
 
 - 🔭 Hoje trabalho com front-end 
 - 🌱 Estudando React-js e Node-js
-- 📫 How to reach me: ...
+- 📫 contatc: gabrielbritodesousa@gmail.com
 - 😄 Pronouns: ele/dele
 
 <div style="display: inline_block"><br>
