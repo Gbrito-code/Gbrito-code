@@ -1,8 +1,7 @@
 ### Hi, Eu sou Gabriel Brito 👋
 
 
-- 🔭 Hoje trabalho com front-end 
-- 🌱 Estudando React-js e Node-js
+- 🔭 Instrutor de Tecnologia 
 - 📫 contatc: gabrielbritodesousa@gmail.com
 - 😄 Pronouns: ele/dele
 
