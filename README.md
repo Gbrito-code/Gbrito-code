@@ -4,7 +4,7 @@ import Desenvolvedor from "Gabriel Brito";
 
 class SobreMim extends Desenvolvedor {
   nome = "Guilherme Cezar de Amorim";
-  area = "Desenvolvedor FullStack";
+  area = "Instrutor e Desenvolvedor FullStack";
   trabalho = "Instrutor de Tecnologia - Senai Têxtil "
   contato = "gabrielbritodesousa@gmail.com";
   }
