@@ -1,9 +1,21 @@
-### Hi, Eu sou Gabriel Brito 👋
 
+```python
+import Desenvolvedor from "Gabriel Brito";
 
-- 🔭 Instrutor de Tecnologia 
-- 📫 contatc: gabrielbritodesousa@gmail.com
-- 😄 Pronouns: ele/dele
+class SobreMim extends Desenvolvedor {
+  nome = "Guilherme Cezar de Amorim";
+  area = "Desenvolvedor FullStack";
+  trabalho = "Instrutor de Tecnologia - Senai Têxtil "
+  contato = "gabrielbritodesousa@gmail.com";
+  }
+
+class Skills extends Desenvolvedor {
+  linguagens = ["JavaScript, Python, Java, PHP, TypeScript"];
+  bibliotecas = ["ReactJS", "TensorFlow", "Styled Components", "jQuery", "Bootstrap"];
+  frameworks = ["React.js, Express, Next.js, Flask, Django, Laravel"];
+  fraquezas = ["Lembrar de deslogar minhas contas de computadores públicos"];
+}
+```
 
 <div style="display: inline_block"><br>
   <img align="center" alt="javaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
