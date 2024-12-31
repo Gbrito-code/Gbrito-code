@@ -6,7 +6,6 @@ class SobreMim extends Desenvolvedor {
   nome = "Gabriel Brito de Sousa";
   area = "Instrutor e Desenvolvedor FullStack";
   trabalho = "Instrutor de Tecnologia - Senai Têxtil "
-  contato = "gabrielbritodesousa@gmail.com";
   }
 
 class Skills extends Desenvolvedor {
