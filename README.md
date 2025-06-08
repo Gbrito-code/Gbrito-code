@@ -9,11 +9,19 @@ class SobreMim extends Desenvolvedor {
   }
 
 class Skills extends Desenvolvedor {
-  linguagens = ["JavaScript, Python, Java, PHP, TypeScript"];
-  bibliotecas = ["ReactJS", "TensorFlow", "Styled Components", "jQuery", "Bootstrap"];
-  frameworks = ["React.js, Express, Next.js, Flask, Django, Laravel"];
-  fraquezas = ["Lembrar de deslogar minhas contas de computadores públicos"];
+  linguagens = ["JavaScript", "Python", "Java", "PHP", "TypeScript", "SQL", "HTML", "CSS"];
+  
+  bibliotecas = [
+    "ReactJS", "TensorFlow", "Styled Components", "jQuery", "Bootstrap", NumPy", "Pandas", "Seaborn", "Chart.js"
+  ];
+  
+  frameworks = ["React.js", "Express", "Next.js", "Flask", "Django", "Laravel", "Spring Boot", "FastAPI", "Node.js", "Tailwind CSS"
+  ];
+
+  ferramentas = ["Git", "GitHub", "VS Code", "Postman", "Figma", "Docker", "Firebase", "Heroku", "MySQL", "MongoDB"
+  ];
 }
+
 ```
 |<img align="center" src="https://github-readme-stats.vercel.app/api?username=Gbrito-code&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="" /></a> | <a href="https://github.com/Gbrito-code"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gbrito-code&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
